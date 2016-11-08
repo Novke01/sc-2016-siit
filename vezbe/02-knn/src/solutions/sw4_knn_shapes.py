@@ -6,7 +6,7 @@ from skimage.measure import label, regionprops
 from skimage.morphology import erosion, disk
 from scipy import ndimage as ndi
 import numpy as np
-from knn_classifier import KNNClassifier
+from sw4_knn_classifier import KNNClassifier
 import csv
 import math
 

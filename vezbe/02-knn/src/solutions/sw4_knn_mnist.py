@@ -7,7 +7,7 @@ import numpy as np
 import random as rnd
 import math
 
-from knn_classifier import KNNClassifier
+from sw4_knn_classifier import KNNClassifier
 
 
 def get_properties(region):
